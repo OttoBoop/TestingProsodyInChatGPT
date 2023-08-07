@@ -5,7 +5,7 @@ import openai
 import datetime
 
 # Replace with your OpenAI API Key
-api_key = "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"
+api_key = "ENter API KEy HEre"
 
 # The base URL for the OpenAI API
 api_url = "https://api.openai.com/v1/chat/completions"
