@@ -7,7 +7,7 @@ import datetime  # Importing the datetime module for working with dates and time
 import itertools  # Importing the itertools module for generating combinations
 
 # Replace with your OpenAI API Key
-api_key = "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"
+api_key = "ENTER KEY HERE"
 
 # The number of API calls for each prompt
 num_calls = 5  # Change this to the number you want
